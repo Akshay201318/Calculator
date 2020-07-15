@@ -15,7 +15,7 @@ This is a Calculator web application. You can perform all the operation by using
   - [JavaScript]( https://www.javascript.com/) -for adding various functionalities to the page.
   
   ## Deployment
-   - For deploying this website online i used github. I hosted this website github and here is the link of the website  [Calculator](superheroimages.com).
+   - For deploying this website online i used github. I hosted this website github and here is the link of the website  [Calculator]( https://akshay201318.github.io/Calculator/.).
   
   
   ## Contributing
